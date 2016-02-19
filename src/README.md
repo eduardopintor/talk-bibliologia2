@@ -11,11 +11,14 @@ You should just edit the source file at src/README.md - the one which stars with
 <img src="img/biblia.jpg" class="logo" />
 
 &nbsp;
+*@@description*
+
+&nbsp;
 &nbsp;
 
 @@author
 
-*@@email*
+**@@email**
 
 @@date
 
@@ -23,96 +26,74 @@ You should just edit the source file at src/README.md - the one which stars with
 
 ## Agenda
 
- - INTRODU&Ccedil;&Atilde;O
- - BABIL&Ocirc;NIA
-  - REVELA&Ccedil;&Atilde;O: Deus se comunica com o Homem
- - BIBLIOTECA DE ALEXANDRIA
-  - INSPIRA&Ccedil;&Atilde;O: A Orienta&ccedil;&atilde;o do Esp&iacute;rito Santo
- - ENCADERNA&Ccedil;&Atilde;O BIZZANTINA
-  - CANONICIDADE: O Reconhecimento da Inspira&ccedil;&atilde;o das Escrituras
- - SCRIPTORIUM MEDIEVAL
+- *RESUMO DA AULA ANTERIOR*
+- *SCRIPTORIUM MEDIEVAL*
   - PRESERVA&Ccedil;&Atilde;O: Zelando pela Transmiss&atilde;o e Pureza do Texto
- - O EST&Uacute;DIO DE JOHN WYCLIF
+- *O EST&Uacute;DIO DE JOHN WYCLIF*
   - TRADU&Ccedil;&Atilde;O: Levando a Palavra aos Povos
+- *O EST&Uacute;DIO DE JOHN WYCLIF*
+  - TRADU&Ccedil;&Atilde;O: Levando a Palavra aos Povos
+- *A PRENSA DE  GUTENBERG*
+  - REFORMA: Ventos de Mudan&ccedil;a na Igreja
+- *A TRADU&Ccedil;&Atilde;O DE TYNDALE*
+  - INTERPRETA&Ccedil;&Atilde;O: Compreendendo a Palavra de Deus
+- *A CELA DE JOHN BUNYAN*
+  - CONVIC&Ccedil;&Atilde;O: A F&eacute; inabal&aacute;vel de John Bunyan
+- *O METROPOLITAN TABERNACLE*
+  - PROCLAMA&Ccedil;&Atilde;O: Pregando a Palavra a uma Na&ccedil;&atilde;o Sedenta
+- *O MAYFLOWER*
+  - AUTORIDADE: Fundamentos de uma Nova Sociedade
+- *A IGREJA NA COL&Ocirc;NIA*
+  - EVANGELIZA&Ccedil;&Atilde;O: Compartilhando a Mensagem de Esperan&ccedil;a
 
 ---
 
-## Introdu&ccedil;&atilde;o
-  - Voc&aacute;bulo *&quot;B&iacute;blia&quot;*: do grego *biblios*, o nome que os gregos davam &agrave; folha de papiro preparada para escrita
-  - *Biblion*: Um rolo de papiro de tamanho pequeno
-  - V&aacute;rios destes rolos formavam uma *b&iacute;blia*
-  - Literalmente: *B&iacute;blia* quer dizer *&quot;cole&ccedil;&atilde;o de livros pequenos&quot;*
-  - Sendo uma unidade perfeita, *B&iacute;blia* passou do plural para o singular, significando **'o Livro'**, ou, o **'Livro dos Livros'**
+## Revis&atilde;o
+- Voc&aacute;bulo *&quot;B&iacute;blia&quot;*: do grego *biblios*, o nome que os gregos davam &agrave; folha de papiro preparada para escrita
+- *Biblion*: Um rolo de papiro de tamanho pequeno
+- Literalmente: *B&iacute;blia* quer dizer *&quot;cole&ccedil;&atilde;o de livros pequenos&quot;*
+- A B&iacute;blia:
+  - Possui *66 Livros*
+  - Mais de *40 escritores*
+  - Escrita ao longo de um per&iacute;odo de *1600 anos*
+- Sua Divis&atilde;o:
+  - *Antigo Testamento*: 39 Livros
+  - *Novo Testamento*: 27 Livros
 
 ----
 
-## Introdu&ccedil;&atilde;o
-  - A B&iacute;blia:
-   - Possui *66 Livros*
-   - Mais de *40 escritores*
-   - Escrita ao longo de um per&iacute;odo de *1600 anos*
-  - Sua Divis&atilde;o:
-   - *Antigo Testamento*: 39 Livros
-   - *Novo Testamento*: 27 Livros
-  - O nomes mais comuns da B&iacute;blia:
-   - Escrituras (Mt 21.42)
-   - Sagradas Escrituras (Rm 1.2)
-   - Livro do Senhor (Is 34.16)
-   - Palavra de Deus (Mc. 7.13 ; Hb 4.12)   
-
----
-
-## Revela&ccedil;&atilde;o
-  - *Cuneiforme*
-   - *Em forma de cunha*, anota&ccedil;&otilde;es em argila
-   - Pictogramas e Ideogramas: c&oacute;digo leg&iacute;vel aos reis e escribas
-   - N&atilde;o cont&eacute;m textos da B&iacute;blia 
-   - Foi in&iacute;cio do *desenvolvimento da esctita*
-   - *Escrita*: instrumento no qual Deus se revela ao Homem 
+## Revis&atilde;o
+- *Cuneiforme* - O in&iacute;cio do *desenvolvimento da esctita*
+  - *Escrita*: instrumento no qual Deus se revela ao Homem 
+- *REVELA&Ccedil;&Atilde;O*: a *manifesta&ccedil;&atilde;o* que Deus faz de Si mesmo e a compreens&atilde;o, mesmo que parcial, dela pelos homens
+  - Deus faz-se conhecido na sua *personalidade* e nas *suas rela&ccedil;&otilde;es*, porque quer que o *homem o conhe&ccedil;a* (Sl 19.1-4)
 
 ----
 
-## Revela&ccedil;&atilde;o
-  - &Eacute; a *manifesta&ccedil;&atilde;o* que Deus faz de Si mesmo e a compreens&atilde;o, mesmo que parcial, dela pelos homens
-  - Deus faz-se conhecido dos homens na sua *personalidade* e nas *suas rela&ccedil;&otilde;es*
-  - Ele se revela, porque quer que o *homem o conhe&amp;ccedil;a* (Sl 19.1-4)
-
----
-
-## Inspira&ccedil;&atilde;o
-  - *Alexandria*: a maior biblioteca do mundo
-  - *Alexandre, o Grande*
-  - Mediter&acirc;neo: *sec. III*
-  - Papiro, Couro, Rolo e outros materiais
-  - As primeiras Palavras da B&iacute;blia foramescritas em *Papiro*
-
-----
-
-## Inspira&ccedil;&atilde;o
-  - *Inspirada*: literalmente, *&quot;soprada por Deus&quot;*
-  - O que diferencia a B&iacute;blia dos demais livros: sua *Inspira&ccedil;&atilde;o Divina* (J&oacute; 32:8;2 Tm 3:16; 2Pe1:21)
-  - *Inspira&ccedil;&atilde;o Divina* = Palavra de Deus
+## Revis&atilde;o
+- *Alexandria*: a maior biblioteca do mundo, por *Alexandre, o Grande* no Mediter&acirc;neo - *sec. III*
+- Novos Materiai: *Papiro, Couro, Rolo e outros materiais*
+  - As primeiras Palavras da B&iacute;blia foram escritas em *Papiro*
+- *INSPIRA&Ccedil;&Atilde;O*: a opera&ccedil;&atilde;o pela qual Deus garantiu o conte&uacute;do da B&iacute;blia como autentica express&atilde;o de sua revela&ccedil;&atilde;o
+  - *Inspirada* = *&quot;soprada por Deus&quot;*
+  - B&iacute;blia = *Inspira&ccedil;&atilde;o Divina* = Palavra de Deus
   - *&quot;Assim diz o Senhor&quot;* ocorre mais de *2600 vezes*
   - Homens escreveram a B&iacute;blia com palavras de *seu vocabul&aacute;rio*, mas sob influ&ecirc;ncia do *Esp&iacute;rito Santo*
-  - *Defini&ccedil;&atilde;o adequada de Inspira&ccedil;&atilde;o*:
-   - Deus: o *Causador original* 
-   - Homens de Deus: os *instrumentos*
-   - Sagradas Escrituras: o *produto final*
-
----
-
-## Canonicidade
-  - Manuscritos em *pergaminho*
-  - Novo m&eacute;todo de escrita: *C&oacute;dice* ou *Livro*
-  - *Constantinopla*: primeiro livros
-  - P&aacute;ginas individuais, juntadas em *uni&otilde;es ou assinaturas*
-  - B&iacute;blia em volumes
-  - Tradu&ccedil;&atilde;o para outros idiomas
-  - Expans&atilde;o da Palavra de Deus
 
 ----
 
-## Canonicidade
+## Revis&atilde;o
+- *pergaminho*
+- *C&oacute;dice* ou *Livro*
+- *Constantinopla*: primeiro livros
+- B&iacute;blia em volumes
+- Tradu&ccedil;&atilde;o para outros idiomas
+- Expans&atilde;o da Palavra de Deus
+
+----
+
+## Revis&atilde;o
+- Canonicidade
  - *&quot;Canon&quot;*: origem crist&atilde; e derivada do grego *&quot;Kanon&quot;*
  - Hebraico *&quot;kaneh&quot;* = *&quot;junco&quot;* ou *&quot;vara reta de medir&quot;*
  - *C&acirc;non* = aquilo que serve de norma, regra
@@ -188,7 +169,10 @@ You should just edit the source file at src/README.md - the one which stars with
 
 &nbsp;
 &nbsp;
+*@@description*
 
+&nbsp;
+&nbsp;
 @@author
 
 *@@email*
