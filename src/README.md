@@ -31,20 +31,12 @@ You should just edit the source file at src/README.md - the one which stars with
   - PRESERVA&Ccedil;&Atilde;O: Zelando pela Transmiss&atilde;o e Pureza do Texto
 - *O EST&Uacute;DIO DE JOHN WYCLIF*
   - TRADU&Ccedil;&Atilde;O: Levando a Palavra aos Povos
-- *O EST&Uacute;DIO DE JOHN WYCLIF*
-  - TRADU&Ccedil;&Atilde;O: Levando a Palavra aos Povos
 - *A PRENSA DE  GUTENBERG*
   - REFORMA: Ventos de Mudan&ccedil;a na Igreja
 - *A TRADU&Ccedil;&Atilde;O DE TYNDALE*
   - INTERPRETA&Ccedil;&Atilde;O: Compreendendo a Palavra de Deus
 - *A CELA DE JOHN BUNYAN*
   - CONVIC&Ccedil;&Atilde;O: A F&eacute; inabal&aacute;vel de John Bunyan
-- *O METROPOLITAN TABERNACLE*
-  - PROCLAMA&Ccedil;&Atilde;O: Pregando a Palavra a uma Na&ccedil;&atilde;o Sedenta
-- *O MAYFLOWER*
-  - AUTORIDADE: Fundamentos de uma Nova Sociedade
-- *A IGREJA NA COL&Ocirc;NIA*
-  - EVANGELIZA&Ccedil;&Atilde;O: Compartilhando a Mensagem de Esperan&ccedil;a
 
 ---
 
@@ -83,7 +75,7 @@ You should just edit the source file at src/README.md - the one which stars with
 ----
 
 ## Revis&atilde;o
-- *pergaminho*
+- Uso*Pergaminho*
 - *C&oacute;dice* ou *Livro*
 - *Constantinopla*: primeiro livros
 - B&iacute;blia em volumes
@@ -93,13 +85,12 @@ You should just edit the source file at src/README.md - the one which stars with
 ----
 
 ## Revis&atilde;o
-- Canonicidade
+- *CANONICIDADE*
  - *&quot;Canon&quot;*: origem crist&atilde; e derivada do grego *&quot;Kanon&quot;*
  - Hebraico *&quot;kaneh&quot;* = *&quot;junco&quot;* ou *&quot;vara reta de medir&quot;*
  - *C&acirc;non* = aquilo que serve de norma, regra
- - *Livros Can&ocirc;nicos*: *Inspirados por Deus*
- - *Ap&oacute;crifo*: grego *&quot;apokruphos&quot;* significa literalmente *&quot;escondido&quot;*, *&quot;oculto&quot;*
-  - significa *&quot;n&atilde;o genu&iacute;no&quot;*, *&quot;esp&uacute;rio&quot;*
+ - *Livros Can&ocirc;nicos*: **Inspirados por Deus**
+ - *Ap&oacute;crifo*: grego *&quot;apokruphos&quot;* significa literalmente *&quot;escondido&quot;*, *&quot;oculto&quot;*, *&quot;n&atilde;o genu&iacute;no&quot;*, *&quot;esp&uacute;rio&quot;*
   - *Livros n&atilde;o inspirados por Deus*
 
 ---
@@ -126,40 +117,85 @@ You should just edit the source file at src/README.md - the one which stars with
 ---
 
 ## Tradu&ccedil;&atilde;o
- - John Wyclif: Tradu&ccedil;&atilde;o da Vulgata para o Ingl&ecirc;s
- - 1832 Antigo e Novo Testamentos traduzidos
- - *Linguas Originais*:
+- *John Wyclif*: Tradu&ccedil;&atilde;o da Vulgata para o Ingl&ecirc;s
+  - 1832 Antigo e Novo Testamentos traduzidos
+- *Linguas Originais*:
   - Hebraico
   - Grego
   - Aramaico
- - Inicio da Reforma
- - 430 a.C: Pentatuco traduzidos pelos Samaritanos
+- Inicio da Reforma
+- 430 a.C: Pentatuco traduzidos pelos Samaritanos
+
+---
+
+## Reforma
+- *PRENSA DE GUTENBERG* - Inventada em **1455**
+ - 1436 a 1460 Gutenberg dedicou-se inteiramente &agrave; inven&ccedil;&atilde;o da prensa
+ - *Tipologia*: uso de *'tipos' (letras m&oacute;veis)*
+ - Com a estrutura montada era poss&iacute;vel imprimir cerca de **300 p&aacute;ginas por dia**
+- Obras de sua autoria:
+-  *B&iacute;blia de 42 linhas* (o n&uacute;mero de linhas por p&aacute;gina) de 1452
+  - **B&iacute;blia de Gutenberg** ou **B&iacute;blia de Mainz** (cidade natal de Gutenberg)
+  - Produziu *200 c&oacute;pias* dos seus dois volumes
+- *Calend&aacute;rio* de 1448
+- *Cat&oacute;licon* de 1460.
 
 ----
 
-## Tradu&ccedil;&atilde;o
-- *Septuaginta*
- - Tradu&ccedil;&atilde;o em 200 a.C.
- - Do latim *'septuaginta'*, que quer dizer *&quot;Setenta&quot;* 
- - *72 eruditos* traduziam em *72 dias* em Alexandia
- - Onde derivou o nome *&ldquo;Sep-Tuaginta&rdquo;*
- - Primeira tradu&ccedil;&atilde;o completa do A.T. do original grego
-- Citou e dividiu os livros por assuntos:
- - Lei, Hist&oacute;ria, Poesia e Profecia
-- Usada ainda hoje na Igreja Grega
+## Reforma
+- S&eacute;culo XVI
+- *Vis&atilde;o dos pioneiros*: Necessidad da Igreja de uma *Reforma*
+- *Resgate da L&iacute;ngua Grega*
+- *Reformadores Doutrinais*
+- *Reformadores Morais ou Humanistas* - Conhecimento
+  - Academia Plat&acirc;onica: Estudo do Grego 
+  - *Froben e Erasmo*: Novo testamento em *Grego e Latim*
+  - *In&iacute;cio &agrave; Reforma*
+- *B&iacute;blia de Lutero* traduzida em alem&atilde;o
+  - As 95 teses de Lutero
+- Somente as *Esctrituras* como *Regra de F&eacute;*
+  - Conhecimento da Palavra
+  - Oposi&ccedil;&atilde;o &agrave; Igreja Romana
 
-----
+---
 
-## Tradu&ccedil;&atilde;o
-- *Vulgata Latina*
- - *&quot;Vulgata&quot;* do latim *&quot;vulgo povo&quot;*:do povo, popular, corrente
- - Nova vers&atilde;o da B&iacute;blia por *Jer&ocirc;nimo (342-420)*
- - *Antigo Testamento*: diretamente do hebraico
- - *Novo Testamento*: revisto de vers&otilde;es em latim
- - Vers&atilde;o foi feita de *387 a 405 d.C*
- - Foi a B&iacute;blia da Igreja do Ocidente na idade M&eacute;dia
- - Decretada como a b&iacute;blia oficial da Igreja Romana do *Conc&iacute;lio de Trento*, em 1546
- - Oficializa em 1592, com a  publica&ccedil;&atilde;o de nova edi&ccedil;&atilde;o da Vulgata pelo *Papa Clemente VIII*
+## INTERPRETA&Ccedil;&Atilde;O
+- *B&iacute;blia de Tyndale em Ingl&ecirc;s*
+  - *Precis&atilde;o*: traduzida do Grego
+  - Popularizar a Palavra de Deus
+  - *Introdu&ccedil;&otilde;es* e *Notas Explicat&oacute;rias*
+- *HERMENEUTICA*: Interpreta&ccedil;&atilde;o
+  - A arte ou ci&ecirc;ncia de aplicar regras ou princ&iacute;pios para interpretar a B&iacute;blia
+  - **Contexto** &eacute; uma das regras
+  - O siginificado que o Autor tinha em mente (Esp&iacute;rito Santo)
+- *ILUMINA&Ccedil;&Atilde;O*
+  - *Presen&ccedil;a do Esp&iacute;rito Santo* na leitura
+  - Significado
+  - Aplica&ccedil;&atilde;o na sua vida
+- *SIGINIFICADO*
+  - **N&atilde;o &eacute; nossa interpreta&ccedil;&atilde;o pessoal**
+  - **Mas o que o autor quer dizer**
+
+---
+
+## CONVIC&Ccedil;&Atilde;O:
+- *Persua&amp;ccedil;&amp;atilde;o de que a B&amp;iacute;blia &amp;eacute; a Verdade*
+- *John Bunyan*: Pregador da Palavraa de Deus
+  - Sec. XVII
+- *Alegorias e hist&amp;oacute;rias*: representar a realidade da B&amp;iacute;blia
+- Relatava suas experi&amp;ecirc;ncias em seus textos
+  - Guerra Civil
+  - Carlos II - Liberdade Religiosa
+  - *Lei da Uniformidade* - Igreja Anglicada
+- *Crime de Bunyan*: n&amp;atilde;o aceitar autorza&amp;ccedil;&amp;atilde;o da Igreja para pregar
+  - Optou por seguir seu chamado de Deus
+  - 12 anos de pris&amp;atilde;o: seus livros foram escritos
+- Escreveu mais de *60 Livros*:
+  - *O Peregrino* (1679): o mais publicado
+  - *A Guerra Santa* (1682)
+  - *Abundante Gra&ccedil;a para o Chefe dos Pecadores*
+  - *Um Relato de Meu Aprisionamento*
+
 
 ---
 
