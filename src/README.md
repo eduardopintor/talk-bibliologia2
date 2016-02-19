@@ -179,17 +179,17 @@ You should just edit the source file at src/README.md - the one which stars with
 ---
 
 ## CONVIC&Ccedil;&Atilde;O:
-- *Persua&amp;ccedil;&amp;atilde;o de que a B&amp;iacute;blia &amp;eacute; a Verdade*
+- *Persua&ccedil;&atilde;o de que a B&iacute;blia &eacute; a Verdade*
 - *John Bunyan*: Pregador da Palavraa de Deus
   - Sec. XVII
-- *Alegorias e hist&amp;oacute;rias*: representar a realidade da B&amp;iacute;blia
-- Relatava suas experi&amp;ecirc;ncias em seus textos
+- *Alegorias e hist&oacute;rias*: representar a realidade da B&iacute;blia
+- Relatava suas experi&ecirc;ncias em seus textos
   - Guerra Civil
   - Carlos II - Liberdade Religiosa
   - *Lei da Uniformidade* - Igreja Anglicada
-- *Crime de Bunyan*: n&amp;atilde;o aceitar autorza&amp;ccedil;&amp;atilde;o da Igreja para pregar
+- *Crime de Bunyan*: n&atilde;o aceitar autorza&ccedil;&atilde;o da Igreja para pregar
   - Optou por seguir seu chamado de Deus
-  - 12 anos de pris&amp;atilde;o: seus livros foram escritos
+  - 12 anos de pris&atilde;o: seus livros foram escritos
 - Escreveu mais de *60 Livros*:
   - *O Peregrino* (1679): o mais publicado
   - *A Guerra Santa* (1682)
