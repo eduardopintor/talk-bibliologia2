@@ -180,16 +180,15 @@ Pr. Eduardo Pintor
 
 ## CONVIC&Ccedil;&Atilde;O:
 - *Persua&ccedil;&atilde;o de que a B&iacute;blia &eacute; a Verdade*
-- *John Bunyan*: Pregador da Palavraa de Deus
-  - Sec. XVII
-- *Alegorias e hist&oacute;rias*: representar a realidade da B&iacute;blia
+- *John Bunyan*: Sec. XVII
+  - *Alegorias e hist&oacute;rias*
 - Relatava suas experi&ecirc;ncias em seus textos
   - Guerra Civil
   - Carlos II - Liberdade Religiosa
   - *Lei da Uniformidade* - Igreja Anglicada
-- *Crime de Bunyan*: n&atilde;o aceitar autorza&ccedil;&atilde;o da Igreja para pregar
-  - Optou por seguir seu chamado de Deus
-  - 12 anos de pris&atilde;o: seus livros foram escritos
+- *Crime de Bunyan*: n&atilde;o aceitar autoriza&ccedil;&atilde;o para pregar
+  - Optou por seguir seu *Chamado de Deus*
+  - *12 anos de pris&atilde;o*: seus livros foram escritos
 - Escreveu mais de *60 Livros*:
   - *O Peregrino* (1679): o mais publicado
   - *A Guerra Santa* (1682)
